@@ -20,7 +20,7 @@ Los pasos realizados en esta actividad fueron:
 ## Enlaces a los repositorios
 
 - GitHub: [https://github.com/Benjamin288888/video-club](#)
-- GitLab: [https://gitlab.com/benjamin288888-group/video-club](#)
+- GitLab: [https://gitlab.com/benjamin288888/video-club](#)
 - Bitbucket: [https://benjamin288888@bitbucket.org/benjamin288888/video-club.git](#)
 
 ## Autor
